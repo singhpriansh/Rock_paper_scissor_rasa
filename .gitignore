@@ -1,2 +1,6 @@
+# editore configuration
 .rasa
+.vscode
+
+# models
 models
